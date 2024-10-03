@@ -16,7 +16,7 @@ Imagine running a one file gets you all the jobs for the desired position fetche
 
 ## Requirments
 
-`pip install selenium datetime argparse warnings openpyxl`
+`pip install selenium datetime argparse openpyxl`
 
 ## Technologies and libraries
 
